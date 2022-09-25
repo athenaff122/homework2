@@ -34,9 +34,7 @@ span{
     text-decoration: underline;
     text-transform: uppercase;
 }
-footer{
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
-}
+
 .red{
     background-color:#EF7777;
     text-align: right;
@@ -50,4 +48,7 @@ footer{
     margin-right: 50px;
     border-bottom: 3px;
     border-right: 10px;
+}
+footer{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
 }
