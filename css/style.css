@@ -59,6 +59,6 @@ span{
 }
 
 footer{
-	background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);;
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);;
 }
 /*Added this so the links stay the same color*/
